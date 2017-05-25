@@ -1,0 +1,38 @@
+@charset "UTF-8";
+#mainback {
+	background-color: #C9F;
+	margin: auto;
+	height: 600px;
+	width: 1000px;
+}
+#header {
+	background-color: #FF9;
+	height: 100px;
+	width: 800px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+#menu {
+	background-color: #6F6;
+	float: left;
+	height: 400px;
+	width: 200px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: 100px;
+}
+
+
+#content {
+	background-color: #903;
+	
+	height: 400px;
+	width: 800px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
